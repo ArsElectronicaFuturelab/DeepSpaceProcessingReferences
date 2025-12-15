@@ -28,3 +28,8 @@ The simple version contains only one relevant file you need to work with and is 
 ## EnhancedDeepSpaceSample
 
 This little bit more enhanced version is object oriented and uses a bit more files to split up the code in functional blocks. It also opens a window and reads out the data from Pharus. But there is also a player object which represents each tracked person in the space. This player has also a very rudimentary approach to track jumps in the space.
+
+## Testing with Pharus
+
+Use this [Pharus Simulator](https://github.com/ArsElectronicaFuturelab/UE-DeepSpace-PharusLasertracking/tree/main/PharusSimulators/PharusRecSimulator) to test your Pharus integration locally with some prerecorded tracks.
+
